@@ -1,0 +1,20 @@
+{
+  "name": "authenticationandauthorization"
+  "version": "1.0.0", 
+  "description": "mosyabmw"
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "" // репозиторий (заполним чуть позже)
+  },
+  "keywords": [ // ключевые слова (необязательно)
+    "", 
+    "",
+    ""
+  ],
+  "author": "", // автор (необязательно)
+  "license": "MIT"
+}

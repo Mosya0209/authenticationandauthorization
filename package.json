@@ -1,20 +1,23 @@
 {
-  "name": "authenticationandauthorization"
-  "version": "1.0.0", 
-  "description": "mosyabmw"
+  "name": "authenticationandauthorization",
+  "version": "1.0.0",
+  "description": "mosyabmw",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "https://github.com/Mosya0209/authenticationandauthorization.git"
   },
-  "keywords": [ // ключевые слова (необязательно)
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", // автор (необязательно)
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "databasemigrationtool": "^1.0.0"
+  }
 }
